@@ -10,7 +10,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.relauncher.SideOnly;
 
 /**
- * Created by Кир on 19.10.2014.
+ * Created by LeninGeek on 19.10.2014.
  */
 
 @Mod(name = "Advanced Hoppers", modid = "advancedhoppers", version = "1.7.10-a0.1", canBeDeactivated = true)

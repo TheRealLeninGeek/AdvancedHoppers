@@ -1,7 +1,7 @@
 package com.leningeek.advancedhoppers.references;
 
 /**
- * Created by Кир on 19.10.2014.
+ * Created by LeninGeek on 19.10.2014.
  */
 public class References {
     public static final String MODID = "advancedhoppers";
