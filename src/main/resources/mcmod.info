@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedhoppers",
+  "name": "Advanced Hoppers",
+  "description": "Mod adds some new types of hoppers.",
+  "version": "1.7.10-a0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LeninGeek"],
+  "credits": "For the Mother Яussia.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
