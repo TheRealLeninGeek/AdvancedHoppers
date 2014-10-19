@@ -1,6 +1,5 @@
-package com.leningeek.advancedhoppers.creativetabs;
+package com.leningeek.advancedhoppers.creativetab;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 
