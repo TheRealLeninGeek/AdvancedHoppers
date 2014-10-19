@@ -1,4 +1,4 @@
-package creativetabs;
+package com.leningeek.advancedhoppers.creativetabs;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
