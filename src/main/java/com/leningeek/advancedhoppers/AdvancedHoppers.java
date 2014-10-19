@@ -2,12 +2,9 @@ package com.leningeek.advancedhoppers;
 
 import com.leningeek.advancedhoppers.proxy.CommonProxy;
 import com.leningeek.advancedhoppers.references.References;
-import cpw.mods.fml.common.Mod;
-import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import cpw.mods.fml.relauncher.SideOnly;
 
 /**
  * Created by LeninGeek on 19.10.2014.
